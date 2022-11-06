@@ -1,0 +1,22 @@
+{
+  "name": "task-management-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katrysja/task-management-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katrysja/task-management-service/issues"
+  },
+  "homepage": "https://github.com/katrysja/task-management-service#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
